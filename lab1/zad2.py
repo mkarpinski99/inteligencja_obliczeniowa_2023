@@ -25,5 +25,10 @@ print(f'odchylenie standardowe: {vec_stdev}')
 vec_normalized = [(x-vec_min)/(vec_max-vec_min) for x in rand_vector]
 print(f'normalizacja: {vec_normalized}')
 print(f'max po normalizacji: {max(vec_normalized)}')
-print(f'standaryzacja: {[(x-vec_mean)/vec_stdev for x in rand_vector]}')
-print(f'dyskretyzacja: {[[(x - x % 10), (x - x % 10 + 10)] for x in rand_vector]}')
+max_idx = rand_vector.index(vec_max)
+print(f'max w oryg wektorze: {vec_max} na pozycji {max_idx}')
+print(f'max w nowym wektorze na tej pozycji: {max_idx}')
+vec_standarized = [(x-vec_mean)/vec_stdev for x in rand_vector]
+print(f'standaryzacja: {vec_standarized}')
+print(f'średnia: {sum(vec_standarized)/len(vec_standarized)}')
+print(f'odchylenie standardowe: {statistics.stdev(vec_standarized)}')
