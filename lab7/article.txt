@@ -1,0 +1,51 @@
+How CRISPR gene editing could help treat Alzheimer’s
+Some researchers hoping that gene-editing technology can conquer forms of Alzheimer’s caused by genetic mutations.
+By Tosin Thompson 
+
+Coloured SEM of Alzheimer's disease culture cells.
+
+A laboratory-grown cell that produces amyloid precursor protein. Such cells are cultured for use in Alzheimer’s research.Credit: Simon Fraser/Science Photo Library
+
+Last month saw the first-ever approval of a gene therapy that uses the CRISPR–Cas9 gene-editing tool, a treatment for the blood conditions sickle-cell disease and β-thalassaemia that works by precisely cutting out a faulty gene in people’s stem cells.
+
+Now, researchers in search of new treatments for Alzheimer’s disease are hoping to deploy similar strategies against forms of the disease that are caused by genetic mutations.
+
+Although there are now some treatments that slow the progression of Alzheimer’s, these often don’t benefit people who are in the later stages or who have mutations that raise the risk of the disease.
+
+“CRISPR therapies could potentially be a one-and-done cure, which no other drug can match,” says Subhojit Roy, a neuroscientist at the University of California, San Diego. But he adds that there is a long way to go before these therapies could be deployed against such a complex condition. “Cutting and pasting a gene is much harder to do in the brain using current technology.”
+Promising tool
+
+Alzheimer’s is the most common form of dementia, a health issue of global concern. More than 55 million people are affected by dementia, and this figure is projected to nearly triple by 2050. “We do not fully understand how the brain works, which makes the challenge of understanding and treating brain diseases like Alzheimer’s very difficult,” says Tara Spires-Jones, who studies neurodegeneration at the University of Edinburgh, UK.
+
+Much of Alzheimer’s research is driven by the amyloid hypothesis, the idea that the build-up of amyloid-β proteins in the brain, which eventually form clumps called plaques, is the main cause of the disease. Amyloid plaques trigger another brain protein, called tau, to clump together and spread inside neurons. It is usually well into this process that symptoms such as memory loss start to appear. Usually, the more tau is present, the more severe the symptoms are.
+
+The antibody drugs aducanumab and lecanemab target amyloid, and have been shown in clinical trials to slow cognitive decline in some people. Both drugs have been approved by US Food and Drug Administration, but concerns over their safety and efficacy remain.
+
+CRISPR gene editing could open the door to alternative treatments in cases where the disease is associated with particular genetic variants. One gene that has been linked to late-onset Alzheimer’s is apolipoprotein E (APOE), which codes for a lipid transport protein in the brain that seems to affect the uptake of tau protein by neurons. People who have a variant of the gene called APOE4 have the highest risk of developing Alzheimer’s, while those with the APOE3 and APOE2 variants are at medium and low risk, respectively. Having one copy of APOE4 increases a person’s risk of getting Alzheimer’s disease threefold. Having two copies increases the risk twelvefold.
+
+In a Nature Medicine paper1 published in 2019, a rare APOE variant called Christchurch was found in a woman who, although genetically predisposed to developing Alzheimer’s earlier in life, had shown no symptoms until her seventies.
+
+Yadong Huang, a neuropathologist at Gladstone Institutes in San Francisco, California, and his colleagues used a CRISPR system to engineer the Christchurch gene variant into mice carrying human APOE4. These mice were then cross-bred, producing offspring with either one or two copies of the engineered variant.
+
+In a study published on 13 November in Nature Neuroscience2, the team found that mice with one copy of the APOE4-Christchurch variant were partially protected against Alzheimer’s. Mice with two copies showed none of the expected signs of the disease.
+
+“Our study suggests potential therapeutic interventions for APOE4-related Alzheimer’s disease by mimicking the beneficial effects of the Christchurch mutation,” says Huang.
+
+Another potential target for gene-editing interventions is a protein called presenilin-1 (PS1), which is crucial for making an enzyme involved in amyloid-β production called γ-secretase. Mutations in PSEN1, the gene that codes for PS1, increases the amount of a toxic type of amyloid-β called amyloid-β 42 that is produced in the brain, and have been linked to early-onset Alzheimer’s.
+
+In a proof-of-concept study published last year in Molecular Therapy Nucleic Acids3, scientists used a CRISPR system to cut, and therefore disrupt, the mutant version of the PSEN1 gene in human cells.
+
+The team was able to disrupt half of all mutant PSEN1 genes in cultured cells, which resulted in an overall reduction in both PS1 and amyloid-β 42. This approach is well suited to reducing levels of toxic proteins where a mutant form of a gene is involved in their production, says study co-author Martin Ingelsson, who studies neurotoxic mechanisms at the University of Toronto, Canada.
+
+The team is now making use of a super-precise gene-editing technique called prime editing, which allows a single DNA base pair to be replaced. “I feel convinced that we will one day be able to alter disease-causing genes with surgical precision,” says Ingelsson.
+A long way to the clinic
+
+These strategies are showing promise in early studies, but CRISPR-based gene therapies still have a long way to go, says Spires-Jones. As with any new treatment, safety concerns will have to be addressed. “Gene editing is not always perfect. There could be off-target effects including mutations in healthy genes or damage to entire chromosomes,” she says.
+
+Roy agrees. It’s one thing to experiment on CRISPR systems using cells and animal models, he says, but it’s quite another to take Alzheimer’s gene-editing strategies to the clinic. “There has been no clinical trial using any kind of CRISPR technology in the brain — the groundwork needs to be laid first.”
+
+Roy and his colleagues are pursuing this path. Following successful animal studies using a CRISPR system to edit an Alzheimer’s-linked gene called APP4, the researchers have received funding from the US National Institutes of Health to move their research into a preclinical phase. This will include figuring out which gene-editing system would be best to use in the human brain.
+
+Roy hopes that “there will be a day when a neurologist looking at an Alzheimer’s disease patient would prescribe a one-time CRISPR injection, perhaps in combination with other antibody-based therapies”.
+
+As with other gene therapies, high treatment costs could present a challenge further down the line, says Gerold Schmitt-Ulms, who studies protein function in Alzheimer’s at the University of Toronto, Canada. “At the current rate of innovation in this area, transformative treatments are only a few years away,” he says. “At that time, the biggest challenge will be to make these personalized and costly treatments available to the masses.”
